@@ -1,0 +1,20 @@
+{
+  "name": "sang-tac-viec-lam-tu-xa",
+  "version": "1.0.0",
+  "description": "Ứng dụng quản lý làm việc từ xa.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": ">=4.17.1",
+    "mongoose": ">=5.10.9",
+    "cors": ">=2.8.5"
+  },
+  "devDependencies": {
+    "nodemon": ">=2.0.6"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
