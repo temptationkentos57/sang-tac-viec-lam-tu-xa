@@ -5,5 +5,5 @@ dist/
 .env
 coverage/
 *.log
-/build/
-/releases/
+/build
+/releases
