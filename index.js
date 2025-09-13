@@ -8,7 +8,7 @@ app.use(cors());
 app.use(express.json());
 
 app.get('/', (req, res) => {
-    res.send('Chào mừng đến với Sang Tác Việc Làm Từ Xa!');
+    res.send('Welcome to Remote Job Creation!');
 });
 
 app.listen(PORT, () => {
