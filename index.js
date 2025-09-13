@@ -8,7 +8,7 @@ app.use(cors());
 app.use(express.json());
 
 app.get('/', (req, res) => {
-    res.send('Welcome to Remote Job Creation!');
+    res.send('Welcome to the Remote Job Creation API!');
 });
 
 app.listen(PORT, () => {
