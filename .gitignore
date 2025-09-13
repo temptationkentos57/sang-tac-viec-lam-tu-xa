@@ -8,3 +8,5 @@ coverage/
 /build
 /releases
 .DS_Store
+*.tmp
+*.bak
